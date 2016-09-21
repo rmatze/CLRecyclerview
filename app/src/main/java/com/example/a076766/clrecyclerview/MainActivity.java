@@ -1,7 +1,7 @@
 package com.example.a076766.clrecyclerview;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
@@ -23,7 +23,11 @@ public class MainActivity extends AppCompatActivity {
 
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recyclerview);
 
-        displayList.add("This is a really long string that I want to wrap to the next line");
+        displayList.add(
+                "This is a really long string that I want to wrap to the next line and again and "
+                        + "let's keeping going to get to another line and then to another line "
+                        + "and then to another line past that to get to another line and then to "
+                        + "another line and then to another line past that -- end");
 
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         mAdapter = new MyAdapter(displayList);
