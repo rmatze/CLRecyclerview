@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_46122e8dd01da2dbf73c4b57b5f4df1bf0d7c635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d1ce8245ec51e08ec0b9efa60d66e502d3486fc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_6e7f335604e61289b7fe633e60ba863f3787f0a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9a256ce8595b7b553fd0adf67cf9f511cad4c9a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c222a1518bab0ca9d95b46b87c1f5f39b054f09">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cbbc28eadc8f9a461a87f3c722e9fdd42ba823a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8b6ce100aae81d894a6963ce3780a15f1f83c2ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_dc332778df7020f63f8ee68cea41773756a9b81e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha8_cff506396d682578d53b4daa4b3397fdef93bf14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0e677e412a2ecc82b3b74d18ff2bf8a7ceadcedb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_37d3697a678957ee4d4cdf1b189dd346b43a5c3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_9e6db4dfda7bf0129542ab89514ee76cd5c78f9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9520ac82566ae93261c72ea8c9f0a3b4d35e44f6">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9e1506f984e31ec75e3205d17317ce52a63c08da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0553dba0b0107f9f8151c45906586fd374489969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_111e677f86e736a04c77edd6c2309bb9dc3f0e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.eyeem.recyclerviewtools/library/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="13893cb0f1824d212b39395ace828d9503dccc65">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.eyeem.recyclerviewtools-library-0.4.0_c7a67c973b66d26d1894a64804086fa0315b3b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_926ae920017bad1b876abfbdd857fb0dfca00d09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_1bc59e9eff1e8ac6ba5c45697ec9e187c13e1c01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b6b4d5b6030e8ba40bb6087b209ad4074f146bc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha8/constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha8_c9de8292d422048fdc9be9eaeeec5ab137df7fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_9d9ba6d527fb1f8c608578921f95050ed0116fec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_fea94b4177c1fa4298308375a460bd79c0ee59c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/A076766/Scratch/CLRecyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_96d4d3640ccd329d6556c2e1f76e989d86853426/classes.dex" />
+    </item>
+
+</items>
